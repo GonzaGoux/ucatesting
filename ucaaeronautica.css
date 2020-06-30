@@ -1,0 +1,15 @@
+.google-visualization-table-table .gradient, .google-visualization-table-div-page .gradient {
+    background: #4b4a4d !important;
+    color: #FFFFFF;
+    font-size: 14px;
+}
+
+.google-visualization-table-table {
+    font-family: arial , helvetica;
+    font-size: 10pt;
+    cursor: default;
+    margin: 0;
+    background: #1A2BF8;
+    border-spacing: 0;
+    border-collapse: separate;
+}
