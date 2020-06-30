@@ -1,7 +1,9 @@
-.google-visualization-table-table .gradient, .google-visualization-table-div-page .gradient {
-    background: #4b4a4d;
-    color: #FFFFFF;
-    font-size: 14px;
+.google-visualization-table-th.gradient {
+   background:#4b4a4d!important;
+}
+
+th {
+   color: white!important;
 }
 
 .google-visualization-table-table {
