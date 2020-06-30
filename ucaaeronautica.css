@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="
+
 /* Header background colour */
 .google-visualization-table-th.gradient {
    background:#4b4a4d!important;
@@ -13,6 +13,10 @@
 th {
    color: white!important;
 }
+/* Header Font Type */
+th {
+   font-family: 'Quicksand, sans-serif;
+}
 
 .google-visualization-table-table {
     font-family: arial , helvetica;
@@ -23,4 +27,4 @@ th {
     border-spacing: 0;
     border-collapse: separate;
 }
->
+
