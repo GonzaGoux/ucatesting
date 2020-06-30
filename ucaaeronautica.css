@@ -1,7 +1,14 @@
+/* Header background colour */
 .google-visualization-table-th.gradient {
    background:#4b4a4d!important;
 }
 
+/* Hedaer font alignment */
+.google-visualization-table-th {
+   text-align: right;
+}
+
+/* Header font colour */
 th {
    color: white!important;
 }
